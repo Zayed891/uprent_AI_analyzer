@@ -2,7 +2,7 @@
 
 import type { Application, AnalyzedApplication } from "@/types/application";
 
-const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://uprent-ai-analyzer-1.onrender.com";
 
 export async function analyzeApplications(
   applications: Application[]
